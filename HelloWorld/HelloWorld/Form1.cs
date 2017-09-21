@@ -15,8 +15,8 @@ namespace HelloWorld
         public Form1()
         {
             InitializeComponent();
-            MinimumSize = new Size(lblHelloWorld.Width + 100,
-                                   lblHelloWorld.Height + btnShow.Height + 100);
+            MinimumSize = new Size(lblHelloWorld.Width,
+                                   lblHelloWorld.Width);
         }
 
         private void frmHelloWorld_Click(object sender, EventArgs e)

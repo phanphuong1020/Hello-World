@@ -38,15 +38,16 @@
             this.lblHelloWorld.AutoSize = true;
             this.lblHelloWorld.Font = new System.Drawing.Font("Segoe Script", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHelloWorld.ForeColor = System.Drawing.Color.Red;
-            this.lblHelloWorld.Location = new System.Drawing.Point(216, 179);
+            this.lblHelloWorld.Location = new System.Drawing.Point(88, 149);
             this.lblHelloWorld.Name = "lblHelloWorld";
-            this.lblHelloWorld.Size = new System.Drawing.Size(0, 120);
+            this.lblHelloWorld.Size = new System.Drawing.Size(601, 120);
             this.lblHelloWorld.TabIndex = 0;
+            this.lblHelloWorld.Text = "                   ";
             this.lblHelloWorld.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnShow
             // 
-            this.btnShow.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnShow.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnShow.AutoSize = true;
             this.btnShow.Location = new System.Drawing.Point(177, 410);
             this.btnShow.Name = "btnShow";
