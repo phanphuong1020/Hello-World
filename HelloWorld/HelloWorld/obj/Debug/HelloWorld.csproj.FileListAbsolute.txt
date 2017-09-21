@@ -1,0 +1,10 @@
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\github\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\github\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\github\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\github\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
